@@ -1,4 +1,7 @@
-import discord.py
+import discord
+
+botToken = ""
+botUser = "Verify"
 
 print("Hello world")
 
